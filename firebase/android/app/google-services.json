@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955311478899",
+    "project_id": "motion-todolist-86767",
+    "storage_bucket": "motion-todolist-86767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955311478899:android:ee6a8b0cd52079c6b3b206",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwyWNGvBJwi0ryESClD2mAgfY0-SqGXTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
